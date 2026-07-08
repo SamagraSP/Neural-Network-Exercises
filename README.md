@@ -34,6 +34,13 @@ Dataset : MNIST
 Task : Recognize handwritten digits using convolutional layers for improved accuracy.
 Concepts : Convolution, pooling, feature extraction, deep learning.
 
+6. Flower Classification (CNN)
+Model : Convolutional Neural Network (CNN)
+Dataset : TensorFlow Flower Photos Dataset
+Task : Multi-class image classification to identify flower species (Daisy, Dandelion, Roses, Sunflowers, and Tulips).
+Concepts : Image preprocessing, data augmentation, CNN architecture, multi-class classification, model evaluation.
+
+
 # Technologies Used
 
 1. Python
